@@ -1,0 +1,18 @@
+* {
+    /*Seletor de todas as tags*/
+    margin: 0;
+    /*Espaçamento internos nos elementos*/
+    padding: 0;
+    /*Distancia de conteúdo e a margem do objeto*/
+    box-sizing: border-box;
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
