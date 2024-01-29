@@ -24,9 +24,16 @@ Header: with the elements 'Home', 'Purchase' and 'Support'.
 Home: where the products description and the destination box to the purchase section are located;
 Purchases: where actually is the place one chooses the purchase card and the desired game plataform. 
 
-## started in 23/01 and finished in 29/01 - Luiz Felipe Kaue da Silva
+Started in 23/01 and finished in 29/01 - Author: Luiz Felipe - Lizul Dev
 
 Algumas imagens de apresentação/some images for presenting it:
+
+![Image n1](./src/imagens/rockstar-image.png)
+
+
+![Image n2](./src/imagens/rockstar-image-2.png)
+
+
 
 
 
